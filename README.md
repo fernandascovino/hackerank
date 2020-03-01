@@ -1,15 +1,14 @@
-## Project Title
+## HackerRank Practices
 
-One Paragraph of project description goes here.
+Just some cool challenges and my drafts.
 
 ### Project Organization
 
     ├── LICENSE
     ├── README.md                  <- The top-level README for developers using this project (also know as this file!)
     ├── data
-    │   ├── output                 <- Output processed data
-    │   ├── treated                <- The cleaned and treated data for analysis
-    │   └── raw                    <- The original, immutable data dump
+    │   ├── input                  <- Input of testcases from specific problem
+    │   └── output                 <- Expected output of testcases from specific problem
     ├── notebooks                  <- Jupyter notebooks
     ├── scripts                    <- Python files
     ├── requirements.txt           <- Packages used in the code
@@ -25,14 +24,6 @@ You need to have the packages on `requirements.txt` installed. To do that, open 
 ```
 pip3 install -U -r requirements.txt
 ```
-
-#### Changing author
-
-You need change to your name on the files: [LICENSE.md](LICENSE.md), here (below) and optionally put on your code files :)
-
-### Authors
-
-* **You** - *Code maker* - [@you](https://github.com/@you)
 
 ### License
 
